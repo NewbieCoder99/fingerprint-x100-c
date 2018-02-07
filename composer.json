@@ -1,0 +1,14 @@
+{
+    "name": "newbiecoder99/fingerprint-x100-c",
+    "description": "Fingerprint X100-C Library SOAP Auto Generated To JSON Output",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Newbie Coder",
+            "email": "fajarpunya99@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
